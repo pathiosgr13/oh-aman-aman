@@ -7,3 +7,4 @@ kes?
 pali pali
 nnnnnn
 ggggggggggggggggggggg
+bit bitt 
